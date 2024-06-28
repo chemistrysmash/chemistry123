@@ -1,0 +1,56 @@
+/* POPPINS FONT */
+.input-box {
+    width: 40%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+.submit{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    height: 2rem;
+    width: 10%;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    background: rgba(0, 0, 0, 255);
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+
+.submit:hover{
+    background-color: #a5a2a2;
+    
+}
+
+.message {
+    width: 50%;
+    height: 10%;
+    padding: 10px;
+    margin-bottom: 1px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+label {
+    font-weight: bold;
+}
+.m-box{
+    width: 50%;
+    height: 10%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 3px solid #000;
+    border-radius: 10px;
+    
+}
+
+.mesageBoard{
+    padding: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+   
+}
